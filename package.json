@@ -1,0 +1,16 @@
+{
+  "name": "parse-javascript-sdk",
+  "version": "1.5.0",
+  "description": "Parse JavaScript SDK",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/angusfretwell/parse-javascript-sdk.git"
+  },
+  "author": "Parse, LLC",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/angusfretwell/parse-javascript-sdk/issues"
+  },
+  "homepage": "https://github.com/angusfretwell/parse-javascript-sdk#readme"
+}
