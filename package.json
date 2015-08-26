@@ -1,5 +1,5 @@
 {
-  "name": "parse-javascript-sdk",
+  "name": "parse-sdk",
   "version": "1.5.0",
   "description": "Parse JavaScript SDK",
   "main": "index.js",
