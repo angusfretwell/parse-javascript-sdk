@@ -1,10 +1,13 @@
 Parse JavaScript SDK
 ====================
 
-A mirror of the Parse JavaScript SDK for installation via npm.
+A mirror of the Parse JavaScript SDK for installation via npm
 
-Installation
-------------
+![Icon](https://raw.github.com/angusfretwell/parse-javascript-sdk/master/icon.png)
+
+
+Usage
+-----
 
 Install the SDK via npm:
 
